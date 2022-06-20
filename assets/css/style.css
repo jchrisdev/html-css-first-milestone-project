@@ -13,4 +13,15 @@ body {
     font-family: lato, sans-serif;
     background-color: #3f3f3f;
     font-weight: 300;
+    color: white;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Titillium web, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: white;
+
 }
