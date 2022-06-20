@@ -105,3 +105,21 @@ h2 {
         transform: scale(1);
     }
 }
+
+#about-us {
+    height: 700px;
+}
+
+#about-us-text {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#about-us-img {
+    padding-top: 30px;
+    margin: 0 auto;
+    width: 33%;
+    
+    
+}
