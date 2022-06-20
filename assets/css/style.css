@@ -31,3 +31,38 @@ h1, h2 {
     font-size: 250%;
     margin-left: 30px;
 }
+
+/* menu / navigation links */
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu {
+    font-size: 125%;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    font-family: Titillium web, sans-serif;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+/* ideas for neon box-shadow from: https://blog.logrocket.com/three-ways-style-css-box-shadow-effects/#creating-neon-shadows-css-box-shadow */
+#menu a:hover {
+    border-bottom: 2px solid #AF2174;
+    box-shadow: 5px 10px 30px #AF2174;
+}
+
+.active {
+    border-bottom: 2px solid #AF2174
+}
