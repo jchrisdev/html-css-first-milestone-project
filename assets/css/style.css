@@ -112,7 +112,7 @@ h2 {
 
 #about-us-text {
     padding-top: 30px;
-    width: 33%;
+    width: 50%;
     float: left;
 }
 
@@ -121,5 +121,15 @@ h2 {
     margin: 0 auto;
     width: 33%;
     
-    
+}
+
+.about-us-text {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    margin-bottom: 50px;
+    clear: both;
+
+
+
 }
