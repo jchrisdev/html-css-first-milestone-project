@@ -208,10 +208,52 @@ footer {
     color: #AF2174;
 }
 
-/* sign up image */
+/* form */
 
-#sign-up-img > img {
-    clear: both;
+.form-section {
+    clear: left;
+    height: 900px;
     width: 100%;
+    background: url("../images/sign-up-image.jpg");
+    background-size: cover;
+    background-position: center;
 
 }
+
+.signup-form {
+    margin: 200px 10% 0 0;
+    color: #fff;
+    background-color: rgba(163, 68, 147, 0.514);
+    max-width: 450px;
+    position: absolute;
+    left: 15%;
+    padding: 30px;
+
+}    
+
+.signup-form h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+
+}
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 30px;
+    margin: 10px 0 20px;
+    border: 2px solid #fafafa;
+    border-radius: 10px;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #3f3f3f;
+    color: #fff;
+    display: block;
+}  
