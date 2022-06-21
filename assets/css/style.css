@@ -35,6 +35,11 @@ h2 {
 
 }
 
+#logo:hover {
+    color: #AF2174;
+
+}
+
 /* menu / navigation links */
 
 #menu, #logo {
@@ -82,10 +87,11 @@ h2 {
 }
 
 #hero-image {
-    height: 700px;
+    height: 600px;
     width: 100%;
     background: url(../images/hero-image.jpg) no-repeat center center;
-    position: relative;
+    
+
     
     /* animates zoom effect on hero-image on loading page */
 
@@ -105,31 +111,31 @@ h2 {
         transform: scale(1);
     }
 }
+/* about us section */
 
-#about-us {
-    height: 700px;
+.section {
+    width: 80%;
+    background-color: #AF2174;
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+    margin: 30px auto;
+
 }
 
-#about-us-text {
-    padding-top: 30px;
-    width: 50%;
-    float: left;
+.section img {
+    height: 300px;
+    margin: 1px;
+    padding-left: 2%;
+
 }
 
-#about-us-img {
-    padding-top: 30px;
-    margin: 0 auto;
-    width: 33%;
+.section h2 {
+    margin: 30px;
+    text-align: center;
+}
+
+.section p {
+    text-align: center;
     
-}
-
-.about-us-text {
-    width: 60%;
-    float: right;
-    line-height: 20px;
-    margin-bottom: 50px;
-    clear: both;
-
-
-
 }
