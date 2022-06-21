@@ -91,6 +91,7 @@ h2 {
     height: 600px;
     width: 100%;
     background: url(../images/hero-image.jpg) no-repeat center center;
+    clear: both;
     
 
     
@@ -129,6 +130,7 @@ h2 {
     margin: 1px;
     padding-left: 2%;
     box-shadow: #3f3f3f;
+    
 
 }
 
@@ -204,4 +206,12 @@ footer {
 
 .socials i:hover {
     color: #AF2174;
+}
+
+/* sign up image */
+
+#sign-up-img > img {
+    clear: both;
+    width: 100%;
+
 }
