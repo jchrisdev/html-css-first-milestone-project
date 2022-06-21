@@ -176,3 +176,32 @@ h2 {
 .reasons h3 {
     margin: 20px;
 }
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.socials {
+    text-align: center;
+    list-style-type: none;
+    
+}
+
+.socials > li {
+    display: inline;
+
+}
+
+.socials i {
+    font-size: 170%;
+    margin: 2%;
+    padding: 2%;
+    color: #fff;
+
+}
+
+.socials i:hover {
+    color: #AF2174;
+}
