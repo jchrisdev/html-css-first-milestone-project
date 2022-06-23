@@ -256,4 +256,56 @@ footer {
     background-color: #3f3f3f;
     color: #fff;
     display: block;
-}  
+}
+
+/* media queries */
+
+@media only screen and (min-width:768px) and (max-width:1200px)
+{
+    footer {
+        height: auto;
+    }
+
+    .section-us {
+        width: 100%;
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+
+    section.about-us {
+        padding-inline: 1em;
+    }
+    section.section-why-member {
+        padding-inline: 1em;
+    }
+
+    .section-us img {
+        margin-top: 1em;
+    }
+
+    .section-us h2 {
+        margin-top: 11px;
+    }
+
+    section.section-why-member .why-boxes {
+        margin-top: 4em;
+    }
+
+    section.section-why-member h2 {
+        margin-bottom: 2em;
+    }
+
+    .reasons {
+        width: 33%;
+        display: inline-block;
+        margin: 0 8px;
+        border-radius: 27px;
+    }
+
+    h1#logo {
+        font-size: 1.8em;
+    }
+
+
+
+}
