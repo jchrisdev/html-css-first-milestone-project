@@ -25,7 +25,7 @@
                     <a href="signup.html" class="active">Sign Up</a>
                 </li>
                 <li>
-                    <a href="#">About Us</a>
+                    <a href="#">Gallery</a>
                 </li>
                 <li>
                     <a href="index.html">Home</a>
@@ -38,24 +38,32 @@
 
     <section class="form-section">
         <form action="https://formdump.codeinstitute.net/" method="POST" class="signup-form">
-            <h2>Sign Up</h2>
+            <h2>Sign Up!</h2>
+            
             <label for="fname">First Name</label>
             <input type="text" name="first_name" id="fname" required class="text-input">
+            
             <label for="lname">Last Name</label>
             <input type="text" name="last_name" id="lname" required class="text-input">
+           
             <label for="email">Email Address</label>
             <input type="email" name="email_address" id="email" required class="text-input">
+
+            <p>We will contact you when there is an a available spot.</p>
+
+            <h3>Please fill in your level of experience:</h3>
+            <br>
             
-            <label for="beginner">Beginner</label>
             <input type="radio" id="beginner" name="experience_level" value="beginner" required>
+            <label for="beginner">Beginner</label>
             
-            <label for="intermediate">Intermediate</label>
             <input type="radio" id="intermediate" name="experience_level" value="intermediate">
+            <label for="intermediate">Intermediate</label>
             
+            <input type="radio" id="elite" name="experience_level" value="elite">
             <label for="elite">Elite</label>
-            <input type="radio" id="elite" name="elite" value="elite">
             
-            <input type="submit" value="Let's Play!" class="join-button">
+            <input type="submit" value="Sign Up" class="join-button">
             
         </form>
         
