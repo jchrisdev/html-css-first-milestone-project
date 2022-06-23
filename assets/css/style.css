@@ -29,25 +29,25 @@ h2 {
 
 }
 
-#logo {
+.logo {
     float: left;
     font-size: 250%;
     margin-left: 30px;
 
 }
 
-#logo:hover {
+.logo:hover {
     color: #AF2174;
 
 }
 
 /* menu / navigation links */
 
-#menu, #logo {
+.menu, .logo {
     line-height: 75px;
 }
 
-#menu {
+.menu {
     font-size: 125%;
     letter-spacing: 3px;
     text-transform: uppercase;
@@ -56,20 +56,20 @@ h2 {
 
 }
 
-#menu li {
+.menu li {
     float: right;
     list-style-type: none;
     margin-left: 40px;
 }
 
-#menu a {
+.menu a {
     text-decoration: none;
     color: white;
     
 }
 
 /* ideas for neon box-shadow from: https://blog.logrocket.com/three-ways-style-css-box-shadow-effects/#creating-neon-shadows-css-box-shadow */
-#menu a:hover {
+.menu a:hover {
     border-bottom: 2px solid #AF2174;
     box-shadow: 5px 10px 30px #AF2174;
 }
@@ -80,14 +80,14 @@ h2 {
 
 /* hero image */
 
-#hero-outer {
+.hero-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
 
 }
 
-#hero-image {
+.hero-image {
     height: 600px;
     width: 100%;
     background: url(../images/hero-image.jpg) no-repeat center center;
@@ -299,7 +299,7 @@ section.section-why-member h2 {
     width: 33%;display: inline-block;margin: 0 8px;border-radius: 27px;
 }
  
-h1#logo {
+h1.logo {
     font-size: 1.8em;
 }
  
@@ -328,16 +328,16 @@ footer {
     height: 89px;
 }
  
-h1#logo {
+h1.logo {
     font-size: 20px;display: block;width: 100%;text-align: center; margin: auto;
 }
  
-ul#menu {
+ul.menu {
     display: flex;
     flex-direction: row-reverse;
     width: 100%;
 }
-#menu li {
+.menu li {
     list-style: none;
     flex: 3;
     text-align: center;
