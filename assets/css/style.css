@@ -258,6 +258,26 @@ footer {
     display: block;
 }
 
+/* gallery */
+
+.gallery-photos {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0;
+    
+}
+
+.gallery-photos > img {
+    width: 100%;
+    height: auto;
+    align-items: center;
+
+}
+
+
+
+
 /* media queries */
 
 
@@ -302,7 +322,8 @@ section.section-why-member h2 {
 h1.logo {
     font-size: 1.8em;
 }
- 
+
+
 }
  
 @media only screen and (max-width:768px)
