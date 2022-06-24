@@ -157,13 +157,13 @@ The project was deployed at GitHub Pages using the following steps
 ## Credits
 
 ### Content
-- All the pictures was taken from ![unsplash.com](https://unsplash.com/)
-### Media
+- All the images was taken from ![unsplash](https://unsplash.com/)
 
 ## Acknowledgements
 - [Code Institute](https://www.codeinstitute.net/)
-- The Love Runningproject ( Code institute )
+- The Love Running project ( Code institute )
 - Friends and family who have given me response on the website
+- Mentor **Narender Singh** from Code Institute who helped me out understanding the visual details about responsiveness and the process behind writing more clean code.
 
 
 
