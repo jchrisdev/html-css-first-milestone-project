@@ -88,8 +88,11 @@ It is easy to sign up at the sign up page. The second time and regular visitors 
 - [Gitpod](https://www.gitpod.io/) - Online IDE linked to GitHub repository, this was used to write the website code.
 - [GitHub](https://github.com/) - Was used to host, store and deploy the project files, after being pushed from Gitpod.
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Was used to to check responsiveness and quality
-- [Google Fonts](https://fonts.google.com/) - This was used for selecting the fonts for the website.
-- [Font Awesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2) - This was used for the Social Media Icons and Icons on the Music page.
+- [Google Fonts](https://fonts.google.com/) - Was used for selecting the fonts for the website.
+- [Font Awesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2) - Was used for the About Us basketball icon.
+- [Converito](https://convertio.co/) - For converting the website images from jpg to webp, to take smaller space.
+
+
 
 
 ## Future updates
