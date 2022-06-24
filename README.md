@@ -74,9 +74,26 @@ It is easy to sign up at the sign up page. The second time and regular visitors 
 - Navigation links - this feature allows the users to move through the pages with ease. The navigation is placed abov to the left on every site to easily be found.
 - Social Media links - this feature allows users to follow the 247 Playground on Facebook, Instagram, Twtter and Pinterest easily by clicking on the links and they will open in a new window.
 
+## Technologies Used
+
 ### Languages 
  -  [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)  - Was used to the layout of the website.
  -  [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)    - Was used to help with the styling of the website.
+
+### Libraries
+- (https://www.w3schools.com/ was used to find help with the structure and industry rules.
+
+### Tools
+
+- [Gitpod](https://www.gitpod.io/) - Online IDE linked to GitHub repository, this was used to write the website code.
+- [GitHub](https://github.com/) - Was used to host, store and deploy the project files, after being pushed from Gitpod.
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Was used to to check responsiveness and quality
+- [Google Fonts](https://fonts.google.com/) - This was used for selecting the fonts for the website.
+ - [Font Awesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2) - This was used for the Social Media Icons and Icons on the Music page.
+
+
+
+
 
 
 
