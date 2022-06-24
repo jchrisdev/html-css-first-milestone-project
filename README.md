@@ -158,6 +158,7 @@ The project was deployed at GitHub Pages using the following steps
 
 
 ## Credits
+- [CSS Tricks](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/) - Media Queries for Standard Devices, this page lists a ton of different devices and helped me alot setting and understanding media queries for this site.
 
 ### Content
 - All the images was taken from ![unsplash](https://unsplash.com/)
