@@ -140,6 +140,31 @@ It is easy to sign up at the sign up page. The second time and regular visitors 
 
 
 
+## The project was deployed at GitHub Pages:
+
+The project was deployed at GitHub Pages using the following steps
+
+1. Log in to GitHub
+2. Go to the repositories tab at the top of the screen. 
+3. Click on the repository named jchrisdev/html-css-first-milestone-project
+4. At the top of the repository, locate and click the 'Settings' button on the menu.
+5. Scroll down the Settings page until you locate 'GitHub Pages' section.
+6. Under 'Source', click on the dropdown menu and select 'html-css-first-milestone-project'.
+7. The page will refresh, scroll back down the page and locate the published site in the 'GitHub Pages' section.
+
+
+
+## Credits
+
+### Content
+- All the pictures was taken from ![unsplash.com](https://unsplash.com/)
+### Media
+
+## Acknowledgements
+- [Code Institute](https://www.codeinstitute.net/)
+- The Love Runningproject ( Code institute )
+- Friends and family who have given me response on the website
+
 
 
 
