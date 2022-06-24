@@ -35,3 +35,48 @@ It is easy to sign up at the sign up page. The second time and regular visitors 
 
 1. As a returning and frequent visitor, I want it to be easy to visit and find my way to the updated gallery to se the latest photos.
 2. As a returning and frequent visitor, I want it to be easily showing and telling about the sign-up process for new potential members.
+
+
+## Design
+
+### Colour Scheme
+
+- The main 3 colors used on the website are #3f3f3f (Gray) #FFF (White) and #AF2174 (Pink) that actually comes from the painted walls in the hero image of the basketball court.
+- 
+### Typography
+- The font family: Titillium Web is the main font used throughout the site with the font sans-serif fallback if the Titillium Web would not load.
+- The Headings and logo has the font family Lato with also the font sans-serif to fall back on if the selected font would not load.
+ 
+
+### Imagery
+   - The images are of very joyful and energic colors with a sporty feeling, the Hero image if a photography with a zoom out effect to give a depth feelinge to impress the visitor.
+
+## Wireframe
+
+## Features
+- Responsive on all screen sizes as seen on upper image.
+- Clean design.
+- Matching colors and fonts.
+### Home page
+- Information about 247 Playground.
+- Information about reasons and benifits why the user should play basketball.
+- Matching hero image with zoom effect
+
+### Gallery Page
+- Matching motivational pictures from the court enviroment
+- Masonry style gallery that feets in well in the sporty design.
+
+### Sign Up Page
+
+- Clear sign up page - This allows users to sign up and choose their level of experience as a basketball player, to be contacted from the 247 Playground Team when there is an available sport for the player.
+
+## All Pages
+- Navigation links - this feature allows the users to move through the pages with ease. The navigation is placed abov to the left on every site to easily be found.
+- Social Media links - this feature allows users to follow the 247 Playground on Facebook, Instagram, Twtter and Pinterest easily by clicking on the links and they will open in a new window.
+
+### Languages 
+ -  [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)  - Was used to the layout of the website.
+ -  [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)    - Was used to help with the styling of the website.
+
+
+
