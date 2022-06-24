@@ -89,7 +89,55 @@ It is easy to sign up at the sign up page. The second time and regular visitors 
 - [GitHub](https://github.com/) - Was used to host, store and deploy the project files, after being pushed from Gitpod.
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Was used to to check responsiveness and quality
 - [Google Fonts](https://fonts.google.com/) - This was used for selecting the fonts for the website.
- - [Font Awesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2) - This was used for the Social Media Icons and Icons on the Music page.
+- [Font Awesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2) - This was used for the Social Media Icons and Icons on the Music page.
+
+
+## Future updates
+- Add Fixed playing times schedule and a new section for this in the navigation menu.
+- Add video gallery with exercises for players developement.
+- Add bookable coaching schedule.
+- Add submit form for questions.
+
+## Testing
+ I have tested this website and did not find any broken links. I tried also to submit blank contact forms and forms with incorrect email addresses and that gave me an error message on each every field to show that the required attribute in the form is working as it needs to.
+ 
+ #### Tested with Devices:
+- Desktop with fullhd 1920px Monitor
+- Samsung S9
+- Samsung A51A S5
+- Samsung S6 Lte Tablet
+- Ipad 
+- Iphone 6/7/8
+
+#### Tested with Browsers:
+- Safari
+- Firefox
+- Google Crome
+- Microsoft Edge
+
+### Validator Testing
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator]
+  ![W3C validator](https://github.com/jchrisdev/html-css-first-milestone-project/blob/main/assets/images/validator%20w3.PNG)
+  
+  
+  - CSS
+  - No errors were found when passing through the official ![(Jigsaw) validator](https://github.com/jchrisdev/html-css-first-milestone-project/blob/main/assets/images/W3C%20CSS.PNG)
+
+
+
+### Lighthouse
+
+- A lighthouse check was ran in Chrome Developer Tools that passed with great success, there was just very slight issues with Performance in mobile mode but all in all pritty great.
+
+## Desktop Results:
+![Lighthouse-desktop](https://github.com/jchrisdev/html-css-first-milestone-project/blob/main/assets/images/lighthouse%20desktop.PNG)
+
+
+## Mobile Results:
+![Lighthouse-mobile](https://github.com/jchrisdev/html-css-first-milestone-project/blob/main/assets/images/lighthouse%20mobile.PNG)
+
 
 
 
